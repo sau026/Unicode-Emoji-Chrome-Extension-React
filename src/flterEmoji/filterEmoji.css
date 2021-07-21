@@ -1,0 +1,15 @@
+/* 
+ #search__box{
+    background: #3f51b5;
+    color: #fff;
+    margin: 20px;
+    padding: 10px;
+    border: 0.5px solid #fff;
+    border-radius: 5px;
+  }
+  #search__box::placeholder{
+    color: #fff;
+  }
+  #search__box:focus{
+   outline: none;
+ } */

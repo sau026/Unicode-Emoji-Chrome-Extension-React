@@ -1,0 +1,38 @@
+.single-icon:hover {
+  font-size: 22px;
+}
+
+.search__box_container{
+    background: #3f51b5;
+    margin-bottom: 1rem;
+}
+
+#search__box {
+  background: #3f51b5;
+  color: #fff;
+  padding: 10px;
+  margin: 14px 10px;
+  border: 0.5px solid #cccccc;
+  border-radius: 5px;
+  width: -webkit-fill-available;
+}
+
+#search__box::placeholder {
+  color: #cccccc;
+}
+#search__box:focus {
+  outline: none;
+}
+
+.no-emoji{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.headline{
+  color: #3f51b5;
+  font-size: 20px;
+}
